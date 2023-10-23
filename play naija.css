@@ -1,0 +1,223 @@
+*{
+    background-color: tan;
+}
+h1{
+    color: black;
+}
+h2{
+    color: black;
+}
+button{
+    color: purple;
+   border-width: 2px;
+   border-radius: 2px;
+   border-color: darkgreen;
+}
+h3{
+    color: rgb(15, 15, 15);
+}
+ul li a{
+    text-decoration: none;
+    color: brown;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.ul li a{
+    width: 88%;
+    margin: auto;
+    padding:15px 0 ;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+h6{
+  color:aliceblue;
+    background-color:black;
+}
+ul li a{
+    color:brown;
+    text-align:center;
+
+}
+h4{
+    color: darkgreen;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+img{
+    max-width: 80%;
+}
+.Ablums{
+    float: right;
+}
+.logo{
+    float: left;
+}
+.ADVVERT{
+    float: right;
+    
+}
+header#page-header {
+padding: 1px;
+margin-bottom: 10px;
+background-color: darkgreen;
+margin-top: 10px;
+text-align: center;
+position: relative;
+z-index: 12;
+}
+.title {
+    font-size: 8.5pt;
+    display: inline;
+    background: darkgreen;
+    color: white;
+    padding: 3px 10px;
+    padding-top:5px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:5px;
+    font-weight:600;
+    border-radius:0px;
+    margin-bottom:3px;
+    text-shadow: 2px 1px 3px #000000;
+}
+
+
+.inline style{
+    display: block;
+    background: green;
+    text-align: center;
+    color: #fff;
+    padding: 5px 20px;
+    font-size: 12pt;
+    border-radius: 4px 4px 0 0;
+    text-shadow: 2px 1px 3px #000000;
+    margin: 0 10px -8px 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.HottestSong{
+    color: darkgreen;
+    padding-top: 0px;
+}
+.MusicAblum{
+    color: darkgreen;
+}
+.search-submit{
+   color: purple;
+   border-width: 2px;
+   border-radius: 2px;
+   border-color: darkgreen;
+}
+.search-field{
+    background-color: wheat;
+    border-color: white ;
+}
+.download-image{
+    float: left;
+    width: 180px;
+    margin-bottom: 40px;
+}
+.audioD{
+    padding-right: 50px;
+}
+.more1{
+    float: right;
+    
+}
+.asake{
+    float: right;
+}
+.asake.com {
+ float: right;
+}
+#right-col{
+    width: 35%;
+float: right;
+margin: left;
+overflow: hidden;
+position: relative;
+z-index: 12;
+}
+.padding{
+    padding-right:1opx;
+    padding-left: 10px;
+}
+.banner{
+    text-align: center;
+}
+.side-bar{
+    margin-bottom: 20px;
+    padding: 5px;
+    background-color: white;
+}
+.hot{
+    float: right;
+    margin: left;
+    overflow: hidden;
+    position: relative;
+    z-index: 12;
+}
+.li{
+   float: right;
+   margin: left;
+    overflow: hidden;
+    position: relative;
+    z-index: 12;
+}
+.downadvert{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    float: right;
+}
+.downadvertA{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#footer-base {
+    overflow: hidden;
+    color: white;
+    background: #000000;
+    font-size: 4px;
+    line-height: 1.4;
+}
+#footer-base .copyright {
+    display: inline;
+    height: auto;
+}
+#footer-base a {
+    font-family: scoutLight,Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: white;
+}
+#footer-base .term {
+    margin-top: 0px;
+    float: right;
+    text-align: right;
+}
+#footer-base .term a {
+display: inline-block;
+margin-right: 1em;
+color: #9b9b9b;
+margin-bottom: 9px;
+}
+.advertis{
+    color: darkgreen;
+}
+.downlast{
+    color: white;
+}
+.last{
+    background-color: black;
+}
+.streamlisten{
+    float: right;
+}
+li{
+    color: darkgreen;
+}
+.video-left{
+    float: left;
+}
